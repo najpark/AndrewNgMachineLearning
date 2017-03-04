@@ -1,2 +1,2 @@
-# AndrewNgMachineLearning
-Solutions from Andrew Ng's Machine Learning exercises 
+# Machine Learning (Andrew Ng Stanford classes)
+Exercises from Andrew Ng's Machine Learning class 
